@@ -1,0 +1,14 @@
+/Users/eymen/Desktop/RiderProjects/GameManagemetSystem/BLL/bin/Debug/net8.0/BLL.deps.json
+/Users/eymen/Desktop/RiderProjects/GameManagemetSystem/BLL/bin/Debug/net8.0/BLL.dll
+/Users/eymen/Desktop/RiderProjects/GameManagemetSystem/BLL/bin/Debug/net8.0/BLL.pdb
+/Users/eymen/Desktop/RiderProjects/GameManagemetSystem/BLL/obj/Debug/net8.0/BLL.csproj.AssemblyReference.cache
+/Users/eymen/Desktop/RiderProjects/GameManagemetSystem/BLL/obj/Debug/net8.0/BLL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eymen/Desktop/RiderProjects/GameManagemetSystem/BLL/obj/Debug/net8.0/BLL.AssemblyInfoInputs.cache
+/Users/eymen/Desktop/RiderProjects/GameManagemetSystem/BLL/obj/Debug/net8.0/BLL.AssemblyInfo.cs
+/Users/eymen/Desktop/RiderProjects/GameManagemetSystem/BLL/obj/Debug/net8.0/BLL.csproj.CoreCompileInputs.cache
+/Users/eymen/Desktop/RiderProjects/GameManagemetSystem/BLL/obj/Debug/net8.0/BLL.dll
+/Users/eymen/Desktop/RiderProjects/GameManagemetSystem/BLL/obj/Debug/net8.0/refint/BLL.dll
+/Users/eymen/Desktop/RiderProjects/GameManagemetSystem/BLL/obj/Debug/net8.0/BLL.pdb
+/Users/eymen/Desktop/RiderProjects/GameManagemetSystem/BLL/obj/Debug/net8.0/ref/BLL.dll
+/Users/eymen/Desktop/RiderProjects/GameManagemetSystem/BLL/bin/Debug/net8.0/BLL.runtimeconfig.json
+/Users/eymen/Desktop/RiderProjects/GameManagemetSystem/BLL/obj/Debug/net8.0/BLL.genruntimeconfig.cache
